@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @erikgrinn
-- 👀 I’m interested in Data Analytics and Data Science
-- 🌱 I’m currently learning Python, including necessary libraries such as Pandas and matplotlib
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in full-stack development and data analytics
+- 🌱 I’m currently learning JavaScript and Python
 - 📫 How to reach me: grinn.erik@gmail.com
 
 <!---
