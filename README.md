@@ -1,5 +1,5 @@
 - B.S. in CS from Oregon State University
-- IT certifications with CompTIA (and Cisco in progress)
+- IT certifications with Cisco (CCNA) and CompTIA (A+, Net+, Sec+)
 - Passionate about Data Structures and Algorithms, Web Development, and Computer Networking
 
 <!---
